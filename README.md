@@ -3,6 +3,7 @@
 1. Objective 1
 2. Objective 2
 3. No rollout, karma don't blow up
+4. Update the lesson, butd don't give karma
 
 ## Instructions
 
